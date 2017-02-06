@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:title="Point" android:id="@+id/point"/>
+	<item android:title="Envelope" android:id="@+id/envelope"/>
+	<item android:title="Polyline" android:id="@+id/polyline"/>
+	<item android:title="Polygon" android:id="@+id/polygon"/>
+	<item android:title="Freehand Polygon" android:id="@+id/freehandpolygon"/>
+	<item android:title="Freehand Polyline" android:id="@+id/freehandpolyline"/>
+	<item android:title="Circle" android:id="@+id/circle"/>
+	<item android:title="Clear" android:id="@+id/clear"/>
+</menu>
